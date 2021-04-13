@@ -1,0 +1,12 @@
+ul {
+  color: grey;
+  display: flex;
+  justify-content: space-around;
+}
+a:link {
+  text-decoration: solid;
+}
+a {
+  color: grey;
+  font-size: 2em;
+}
